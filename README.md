@@ -1,1 +1,1 @@
-# js-quiz-hw
+Worried more about JS instead of focusing on CSS hence the look will continue to work on this though please any comment on JS logic would be helpful..Thanks lots
